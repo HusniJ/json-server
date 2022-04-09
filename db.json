@@ -23,6 +23,42 @@
             "description": "ccscsccsc",
             "status": "Pending",
             "id": 2
+        },
+        {
+            "userId": "Dp2935-899",
+            "userName": "Thanisha Shima",
+            "userIcon": "/user1.svg",
+            "isDutypediaUser": true,
+            "appointmentDate": "2022-04-22",
+            "appointmentStartTime": "22:38",
+            "appointmentEndTime": "14:40",
+            "description": "Accepted Appointment",
+            "status": "Accepted",
+            "id": 3
+        },
+        {
+            "userId": "Dp2935-900",
+            "userName": "Masud Shima",
+            "userIcon": "/user2.svg",
+            "isDutypediaUser": true,
+            "appointmentDate": "2022-04-14",
+            "appointmentStartTime": "23:38",
+            "appointmentEndTime": "14:45",
+            "description": "Cancelled Appointment 2",
+            "status": "Cancelled",
+            "id": 4
+        },
+        {
+            "userId": "Dp2935-901",
+            "userName": "Thanisha Shima",
+            "userIcon": "/user1.svg",
+            "isDutypediaUser": true,
+            "appointmentDate": "2022-04-22",
+            "appointmentStartTime": "22:38",
+            "appointmentEndTime": "14:40",
+            "description": "Accepted Appointment 2",
+            "status": "Accepted",
+            "id": 5
         }
     ],
     "users": [
