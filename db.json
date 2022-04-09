@@ -1,4 +1,53 @@
 {
     "appointments":[],
-    "users": []
+    "users": [
+        {
+            "name": "Thanisha Shima",
+            "country": "Bangladesh",
+            "userID": "Dp2935-897",
+            "icon": "/user1.svg",
+            "isDutypediaUser": true,
+            "id": 1
+        },
+        {
+            "name": "Masud Shima",
+            "country": "Bangladesh",
+            "userID": "Dp2935-898",
+            "icon": "/user2.svg",
+            "isDutypediaUser": true,
+            "id": 2
+        },
+        {
+            "name": "Masud Reja",
+            "country": "Bangladesh",
+            "userID": "Dp2935-899",
+            "icon": "/user1.svg",
+            "isDutypediaUser": true,
+            "id": 3
+        },
+        {
+            "name": "Javed Reja",
+            "country": "Bangladesh",
+            "userID": "Dp2935-900",
+            "icon": "/user2.svg",
+            "isDutypediaUser": true,
+            "id": 4
+        },
+        {
+            "name": "Javed Akthar",
+            "country": "Bangladesh",
+            "userID": "Dp2935-901",
+            "icon": "/user1.svg",
+            "isDutypediaUser": true,
+            "id": 5
+        },
+        {
+            "name": "Naim Akthar",
+            "country": "Bangladesh",
+            "userID": "Dp2935-902",
+            "icon": "/user2.svg",
+            "isDutypediaUser": true,
+            "id": 6
+        }
+    ]
 }
