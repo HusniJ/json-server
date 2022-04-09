@@ -8,7 +8,7 @@
             "appointmentDate": "2022-04-22",
             "appointmentStartTime": "22:38",
             "appointmentEndTime": "14:40",
-            "description": "csc scscs",
+            "description": "Cancelled Appointment 1",
             "status": "Cancelled",
             "id": 1
         },
@@ -20,7 +20,7 @@
             "appointmentDate": "2022-04-14",
             "appointmentStartTime": "23:38",
             "appointmentEndTime": "14:45",
-            "description": "ccscsccsc",
+            "description": "Pending Appointment 1",
             "status": "Pending",
             "id": 2
         },
@@ -32,7 +32,7 @@
             "appointmentDate": "2022-04-22",
             "appointmentStartTime": "22:38",
             "appointmentEndTime": "14:40",
-            "description": "Accepted Appointment",
+            "description": "Accepted Appointment 1",
             "status": "Accepted",
             "id": 3
         },
